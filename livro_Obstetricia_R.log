@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.10) (preloaded format=xelatex 2020.10.20)  29 OCT 2020 22:23
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.10) (preloaded format=xelatex 2020.10.20)  29 OCT 2020 22:34
 entering extended mode
 **./livro_Obstetricia_R.tex
 (livro_Obstetricia_R.tex
@@ -525,40 +525,40 @@ LaTeX Warning: Label `fig:help' multiply defined.
 )
 \openout1 = `livro_Obstetricia_R.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 118.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 118.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 118.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 118.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 118.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 118.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 118.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 117.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -587,7 +587,7 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 118.
+(Font)              scaled to size 10.0pt on input line 117.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -626,18 +626,18 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 118.
+(Font)              scaled to size 10.0pt on input line 117.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 118.
+(Font)              `operators' in the math version `normal' on input line 117.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 118.
+ line 117.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 118.
+(Font)              `operators' in the math version `bold' on input line 117.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 118.
+t line 117.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -724,15 +724,15 @@ t=math;language=dflt;"
 (fontspec)             \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 118.
+(Font)              `symbols' in the math version `normal' on input line 117.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 118.
+t line 117.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 118.
+(Font)              `symbols' in the math version `bold' on input line 117.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 118.
+t line 117.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -802,17 +802,17 @@ pt=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
-18.
+17.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 118.
+t line 117.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 118
+(Font)              `largesymbols' in the math version `bold' on input line 117
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 118.
-LaTeX Info: Redefining \microtypecontext on input line 118.
+t line 117.
+LaTeX Info: Redefining \microtypecontext on input line 117.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -822,7 +822,7 @@ Package microtype Info: No adjustment of kerning.
 File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 118.
+Package hyperref Info: Link coloring OFF on input line 117.
 ("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty"
@@ -832,40 +832,40 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count304
 )
-LaTeX Info: Redefining \ref on input line 118.
-LaTeX Info: Redefining \pageref on input line 118.
-LaTeX Info: Redefining \nameref on input line 118.
+LaTeX Info: Redefining \ref on input line 117.
+LaTeX Info: Redefining \pageref on input line 117.
+LaTeX Info: Redefining \nameref on input line 117.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 120.
+(Font)              scaled to size 12.0pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 120.
+(Font)              scaled to size 8.0pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 120.
+(Font)              scaled to size 6.0pt on input line 119.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-20.
+19.
 ("C:\Program Files\MiKTeX\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.0011pt on input line 120.
+(Font)              scaled to size 12.0011pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00073pt on input line 120.
+(Font)              scaled to size 8.00073pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00055pt on input line 120.
+(Font)              scaled to size 6.00055pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 120.
+(Font)              scaled to size 11.99872pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 120.
+(Font)              scaled to size 7.99915pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 120.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 120
+(Font)              scaled to size 5.99936pt on input line 119.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 119
 .
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) ("C:\Program Files\MiKTeX\tex/latex/microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 120
+LaTeX Font Info:    Trying to load font information for U+msb on input line 119
 .
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -909,7 +909,7 @@ Chapter 2.
 File: figures/dicionario_dados_progest.png Graphic file (type bmp)
 <figures/dicionario_dados_progest.png>
 
-Overfull \hbox (739.47034pt too wide) in paragraph at lines 190--205
+Overfull \hbox (739.47034pt too wide) in paragraph at lines 189--204
 [][] 
  []
 
@@ -920,7 +920,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: figures/dicionario_dados_progest2.png Graphic file (type bmp)
 <figures/dicionario_dados_progest2.png>
 
-Overfull \hbox (254.05013pt too wide) in paragraph at lines 225--240
+Overfull \hbox (254.05013pt too wide) in paragraph at lines 224--239
 [][] 
  []
 
@@ -1029,22 +1029,22 @@ File: figures/rstudio6.png Graphic file (type bmp)
 <figures/rstudio6.png>
 [33] [34] [35]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 755.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 754.
 [36] [37]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 880--880
+Overfull \hbox (17.25pt too wide) in paragraph at lines 879--879
 []\TU/lmtt/m/n/10 ## Error in eval(expr, envir, enclos): objeto []banana[] não 
 encontrado[] 
  []
 
 [38] [39] [40] [41] [42] [43] [44] [45] [46]
-Underfull \hbox (badness 10000) in paragraph at lines 1760--1761
+Underfull \hbox (badness 10000) in paragraph at lines 1759--1760
 []\TU/lmr/m/n/10 Help/documentação do R (comandos help(nome_da_funcao) ou
  []
 
 File: figures/help_R.png Graphic file (type bmp)
 <figures/help_R.png>
 [47] [48]
-Underfull \hbox (badness 2600) in paragraph at lines 1871--1872
+Underfull \hbox (badness 2600) in paragraph at lines 1870--1871
 []\TU/lmr/m/n/10 Se você tivesse carregado o pacote \TU/lmtt/m/n/10 dplyr \TU/l
 mr/m/n/10 anteriormente (pela função
  []
@@ -1063,687 +1063,687 @@ File: figures/esquma_pop_amos.png Graphic file (type bmp)
 File: figures/tipos_variaveis.png Graphic file (type bmp)
 <figures/tipos_variaveis.png>
 [53] [54] [55]
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##       ID Grupo CORION []Data aval[]         []Data nascime
 nto[]   []COR BRANCO[][] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##    <dbl> <dbl> <chr>  <dttm>              <dttm>          
            <dbl>[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##  1     1     2 Di     2017-04-23 00:00:00 1988-04-30 00:00
 :00            1[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##  2     2     1 Mono   2016-03-21 00:00:00 1982-03-30 00:00
 :00            1[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##  3     2     1 Mono   2016-03-21 00:00:00 1982-03-30 00:00
 :00            1[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##  4     3     1 Di     2016-02-17 00:00:00 1991-02-23 00:00
 :00            2[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##  5     5     2 Di     2017-04-23 00:00:00 1988-04-30 00:00
 :00            2[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##  6     6     1 Di     2016-03-21 00:00:00 1989-03-28 00:00
 :00            2[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##  7     7     2 Di     2016-02-17 00:00:00 1985-02-24 00:00
 :00            2[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##  8     8     1 Di     2017-12-14 00:00:00 1988-12-21 00:00
 :00            1[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ##  9     9     1 Di     2017-04-23 00:00:00 1980-05-02 00:00
 :00            3[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ## 10    10     2 Di     2016-03-21 00:00:00 1984-03-29 00:00
 :00            1[] 
  []
 
 [56]
-Overfull \hbox (69.75pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (69.75pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ## # ... with 98 more rows, and 15 more variables: []Peso Pré
 [] <dbl>, ALT <dbl>,[] 
  []
 
 
-Overfull \hbox (54.0pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (54.0pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ## #   Gesta <dbl>, Para <dbl>, Aborto <dbl>, IND_AP <dbl>, T
 abagismo <dbl>,[] 
  []
 
 
-Overfull \hbox (6.75pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ## #   Alcool <dbl>, Drogas <dbl>, IG_Aval <dbl>, MedidaColo 
 <dbl>,[] 
  []
 
 
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2154--2154
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2153--2153
 []\TU/lmtt/m/n/10 ## #   Num_contra_CTG <dbl>, []IGP semana[] <dbl>, []IGP dia[
 ] <dbl>, oi <lgl>[] 
  []
 
 
-Overfull \hbox (38.25pt too wide) in paragraph at lines 2184--2184
+Overfull \hbox (38.25pt too wide) in paragraph at lines 2183--2183
 []\TU/lmtt/m/n/10 ##  [1] "ID"              "Grupo"           "CORION"         
  "Data aval"[] 
  []
 
 
-Overfull \hbox (6.75pt too wide) in paragraph at lines 2184--2184
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2183--2183
 []\TU/lmtt/m/n/10 ##  [5] "Data nascimento" "COR BRANCO"      "Peso Pré"       
  "ALT"[] 
  []
 
 
-Overfull \hbox (22.5pt too wide) in paragraph at lines 2184--2184
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2183--2183
 []\TU/lmtt/m/n/10 ##  [9] "Gesta"           "Para"            "Aborto"         
  "IND_AP"[] 
  []
 
 
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2184--2184
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2183--2183
 []\TU/lmtt/m/n/10 ## [13] "Tabagismo"       "Alcool"          "Drogas"         
  "IG_Aval"[] 
  []
 
 
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2184--2184
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2183--2183
 []\TU/lmtt/m/n/10 ## [17] "MedidaColo"      "Num_contra_CTG"  "IGP semana"     
  "IGP dia"[] 
  []
 
 
-Overfull \hbox (38.25pt too wide) in paragraph at lines 2215--2215
+Overfull \hbox (38.25pt too wide) in paragraph at lines 2214--2214
 []\TU/lmtt/m/n/10 ##  [1] "id"              "grupo"           "corion"         
  "data_aval"[] 
  []
 
 
-Overfull \hbox (6.75pt too wide) in paragraph at lines 2215--2215
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2214--2214
 []\TU/lmtt/m/n/10 ##  [5] "data_nascimento" "cor_branco"      "peso_pre"       
  "alt"[] 
  []
 
 
-Overfull \hbox (22.5pt too wide) in paragraph at lines 2215--2215
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2214--2214
 []\TU/lmtt/m/n/10 ##  [9] "gesta"           "para"            "aborto"         
  "ind_ap"[] 
  []
 
 
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2215--2215
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2214--2214
 []\TU/lmtt/m/n/10 ## [13] "tabagismo"       "alcool"          "drogas"         
  "ig_aval"[] 
  []
 
 
-Overfull \hbox (27.75pt too wide) in paragraph at lines 2215--2215
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2214--2214
 []\TU/lmtt/m/n/10 ## [17] "medida_colo"     "num_contra_ctg"  "igp_semana"     
  "igp_dia"[] 
  []
 
 [57]
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##       id grupo corion data_aval           data_nascimento 
     cor_branco[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##    <dbl> <dbl> <chr>  <dttm>              <dttm>          
          <dbl>[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##  1     1     2 Di     2017-04-23 00:00:00 1988-04-30 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##  2     2     1 Mono   2016-03-21 00:00:00 1982-03-30 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##  3     2     1 Mono   2016-03-21 00:00:00 1982-03-30 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##  4     3     1 Di     2016-02-17 00:00:00 1991-02-23 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##  5     5     2 Di     2017-04-23 00:00:00 1988-04-30 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##  6     6     1 Di     2016-03-21 00:00:00 1989-03-28 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##  7     7     2 Di     2016-02-17 00:00:00 1985-02-24 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##  8     8     1 Di     2017-12-14 00:00:00 1988-12-21 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ##  9     9     1 Di     2017-04-23 00:00:00 1980-05-02 00:00
 :00          3[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ## 10    10     2 Di     2016-03-21 00:00:00 1984-03-29 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ## # ... with 98 more rows, and 15 more variables: peso_pre <
 dbl>, alt <dbl>,[] 
  []
 
 
-Overfull \hbox (54.0pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (54.0pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ## #   gesta <dbl>, para <dbl>, aborto <dbl>, ind_ap <dbl>, t
 abagismo <dbl>,[] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ## #   alcool <dbl>, drogas <dbl>, ig_aval <dbl>, medida_colo
  <dbl>,[] 
  []
 
 
-Overfull \hbox (22.5pt too wide) in paragraph at lines 2245--2245
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2244--2244
 []\TU/lmtt/m/n/10 ## #   num_contra_ctg <dbl>, igp_semana <dbl>, igp_dia <dbl>,
  oi <lgl>[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##       id grupo corion data_aval           data_nascimento 
     cor_branco[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##    <dbl> <dbl> <chr>  <dttm>              <dttm>          
          <dbl>[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##  1     1     2 Di     2017-04-23 00:00:00 1988-04-30 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##  2     2     1 Mono   2016-03-21 00:00:00 1982-03-30 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##  3     2     1 Mono   2016-03-21 00:00:00 1982-03-30 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##  4     3     1 Di     2016-02-17 00:00:00 1991-02-23 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##  5     5     2 Di     2017-04-23 00:00:00 1988-04-30 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##  6     6     1 Di     2016-03-21 00:00:00 1989-03-28 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##  7     7     2 Di     2016-02-17 00:00:00 1985-02-24 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##  8     8     1 Di     2017-12-14 00:00:00 1988-12-21 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ##  9     9     1 Di     2017-04-23 00:00:00 1980-05-02 00:00
 :00          3[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ## 10    10     2 Di     2016-03-21 00:00:00 1984-03-29 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ## # ... with 98 more rows, and 14 more variables: peso_pre <
 dbl>, alt <dbl>,[] 
  []
 
 
-Overfull \hbox (54.0pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (54.0pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ## #   gesta <dbl>, para <dbl>, aborto <dbl>, ind_ap <dbl>, t
 abagismo <dbl>,[] 
  []
 
 [58]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2274--2274
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2273--2273
 []\TU/lmtt/m/n/10 ## #   alcool <dbl>, drogas <dbl>, ig_aval <dbl>, medida_colo
  <dbl>,[] 
  []
 
 
-Overfull \hbox (22.5pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ##      id dupe_count grupo corion data_aval           data_n
 ascimento[] 
  []
 
 
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## 1     2          2     1 Mono   2016-03-21 00:00:00 1982-0
 3-30 00:00:00[] 
  []
 
 
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## 2     2          2     1 Mono   2016-03-21 00:00:00 1982-0
 3-30 00:00:00[] 
  []
 
 
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## 3    11          2     2 Di     2016-02-17 00:00:00 1981-0
 2-25 00:00:00[] 
  []
 
 
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## 4    11          2     2 Di     2016-02-17 00:00:00 1981-0
 2-25 00:00:00[] 
  []
 
 
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## 5    17          2     1 Di     2017-04-23 00:00:00 1993-0
 4-29 00:00:00[] 
  []
 
 
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## 6    17          2     1 Di     2017-04-23 00:00:00 1993-0
 4-29 00:00:00[] 
  []
 
 
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## 7    23          2     2 Di     2016-02-17 00:00:00 1997-0
 2-21 00:00:00[] 
  []
 
 
-Overfull \hbox (43.5pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## 8    23          2     2 Di     2016-02-17 00:00:00 1997-0
 2-21 00:00:00[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## # ... with 15 more variables: cor_branco <dbl>, peso_pre <
 dbl>, alt <dbl>,[] 
  []
 
 
-Overfull \hbox (54.0pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (54.0pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## #   gesta <dbl>, para <dbl>, aborto <dbl>, ind_ap <dbl>, t
 abagismo <dbl>,[] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2303--2303
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2302--2302
 []\TU/lmtt/m/n/10 ## #   alcool <dbl>, drogas <dbl>, ig_aval <dbl>, medida_colo
  <dbl>,[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##       id grupo corion data_aval           data_nascimento 
     cor_branco[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##    <dbl> <dbl> <chr>  <dttm>              <dttm>          
          <dbl>[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##  1     1     2 Di     2017-04-23 00:00:00 1988-04-30 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##  2     2     1 Mono   2016-03-21 00:00:00 1982-03-30 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##  3     3     1 Di     2016-02-17 00:00:00 1991-02-23 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##  4     5     2 Di     2017-04-23 00:00:00 1988-04-30 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##  5     6     1 Di     2016-03-21 00:00:00 1989-03-28 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##  6     7     2 Di     2016-02-17 00:00:00 1985-02-24 00:00
 :00          2[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##  7     8     1 Di     2017-12-14 00:00:00 1988-12-21 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##  8     9     1 Di     2017-04-23 00:00:00 1980-05-02 00:00
 :00          3[] 
  []
 
 [59]
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ##  9    10     2 Di     2016-03-21 00:00:00 1984-03-29 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (48.75pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (48.75pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ## 10    11     2 Di     2016-02-17 00:00:00 1981-02-25 00:00
 :00          1[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ## # ... with 94 more rows, and 14 more variables: peso_pre <
 dbl>, alt <dbl>,[] 
  []
 
 
-Overfull \hbox (54.0pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (54.0pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ## #   gesta <dbl>, para <dbl>, aborto <dbl>, ind_ap <dbl>, t
 abagismo <dbl>,[] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2339--2339
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2338--2338
 []\TU/lmtt/m/n/10 ## #   alcool <dbl>, drogas <dbl>, ig_aval <dbl>, medida_colo
  <dbl>,[] 
  []
 
 
-Overfull \hbox (605.25pt too wide) in paragraph at lines 2360--2360
+Overfull \hbox (605.25pt too wide) in paragraph at lines 2359--2359
 []\TU/lmtt/m/n/10 ## Error in kable_latex(x = structure(c("Name", "Number of ro
 ws", "Number of columns", : unused argument (table.attr = "style=[]width: auto;
 []\n        class=[]table table-condensed[]")[] 
  []
 
 
-Overfull \hbox (605.25pt too wide) in paragraph at lines 2383--2383
+Overfull \hbox (605.25pt too wide) in paragraph at lines 2382--2382
 []\TU/lmtt/m/n/10 ## Error in kable_latex(x = structure(c("Name", "Number of ro
 ws", "Number of columns", : unused argument (table.attr = "style=[]width: auto;
 []\n        class=[]table table-condensed[]")[] 
  []
 
 [60]
-Overfull \hbox (605.25pt too wide) in paragraph at lines 2409--2409
+Overfull \hbox (605.25pt too wide) in paragraph at lines 2408--2408
 []\TU/lmtt/m/n/10 ## Error in kable_latex(x = structure(c("Name", "Number of ro
 ws", "Number of columns", : unused argument (table.attr = "style=[]width: auto;
 []\n        class=[]table table-condensed[]")[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2429--2429
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2428--2428
 []\TU/lmtt/m/n/10 ##      id grupo corion data_aval  data_nascimento cor_branco
  peso_pre   alt gesta[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2429--2429
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2428--2428
 []\TU/lmtt/m/n/10 ##   <dbl> <fct> <fct>  <date>     <date>          <fct>     
     <dbl> <dbl> <dbl>[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2429--2429
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2428--2428
 []\TU/lmtt/m/n/10 ## 1     9 1     Di     2017-04-23 1980-05-02      3         
        72  1.65     8[] 
  []
 
 
-Overfull \hbox (33.0pt too wide) in paragraph at lines 2429--2429
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2428--2428
 []\TU/lmtt/m/n/10 ## # ... with 11 more variables: para <dbl>, aborto <dbl>, in
 d_ap <fct>,[] 
  []
 
 
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2429--2429
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2428--2428
 []\TU/lmtt/m/n/10 ## #   tabagismo <fct>, alcool <fct>, drogas <fct>, ig_aval <
 dbl>,[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 2429--2429
+Overfull \hbox (69.75pt too wide) in paragraph at lines 2428--2428
 []\TU/lmtt/m/n/10 ## #   medida_colo <dbl>, num_contra_ctg <dbl>, igp_semana <d
 bl>, igp_dia <dbl>[] 
  []
 
 [61]
-Overfull \vbox (2.20996pt too high) detected at line 2496
+Overfull \vbox (2.20996pt too high) detected at line 2495
  []
 
 [62]
 File: figures/print-tela.png Graphic file (type bmp)
 <figures/print-tela.png>
 [63]
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2525--2525
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2524--2524
 []\TU/lmtt/m/n/10 ##      id grupo corion data_aval  data_nascimento cor_branco
  peso_pre   alt gesta[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2525--2525
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2524--2524
 []\TU/lmtt/m/n/10 ##   <dbl> <fct> <fct>  <date>     <date>          <fct>     
     <dbl> <dbl> <dbl>[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2525--2525
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2524--2524
 []\TU/lmtt/m/n/10 ## 1    NA <NA>  <NA>   NA         NA              <NA>      
        NA    NA    NA[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2525--2525
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2524--2524
 []\TU/lmtt/m/n/10 ## 2    27 prog~ di     2016-02-17 1997-02-21      nbranca   
        58   163     1[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2525--2525
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2524--2524
 []\TU/lmtt/m/n/10 ## 3    NA <NA>  <NA>   NA         NA              <NA>      
        NA    NA    NA[] 
  []
 
 
-Overfull \hbox (33.0pt too wide) in paragraph at lines 2525--2525
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2524--2524
 []\TU/lmtt/m/n/10 ## # ... with 11 more variables: para <dbl>, aborto <dbl>, in
 d_ap <fct>,[] 
  []
 
 
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2525--2525
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2524--2524
 []\TU/lmtt/m/n/10 ## #   tabagismo <fct>, alcool <fct>, drogas <fct>, ig_aval <
 dbl>,[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 2525--2525
+Overfull \hbox (69.75pt too wide) in paragraph at lines 2524--2524
 []\TU/lmtt/m/n/10 ## #   medida_colo <dbl>, num_contra_ctg <dbl>, igp_semana <d
 bl>, igp_dia <dbl>[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2551--2551
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2550--2550
 []\TU/lmtt/m/n/10 ##      id grupo corion data_aval  data_nascimento cor_branco
  peso_pre   alt gesta[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2551--2551
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2550--2550
 []\TU/lmtt/m/n/10 ##   <dbl> <fct> <fct>  <date>     <date>          <fct>     
     <dbl> <dbl> <dbl>[] 
  []
 
 
-Overfull \hbox (85.5pt too wide) in paragraph at lines 2551--2551
+Overfull \hbox (85.5pt too wide) in paragraph at lines 2550--2550
 []\TU/lmtt/m/n/10 ## 1    21 plac~ mono   2017-04-23 1988-04-30      branca    
        44  1.64     1[] 
  []
 
 
-Overfull \hbox (33.0pt too wide) in paragraph at lines 2551--2551
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2550--2550
 []\TU/lmtt/m/n/10 ## # ... with 11 more variables: para <dbl>, aborto <dbl>, in
 d_ap <fct>,[] 
  []
 
 
-Overfull \hbox (1.5pt too wide) in paragraph at lines 2551--2551
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2550--2550
 []\TU/lmtt/m/n/10 ## #   tabagismo <fct>, alcool <fct>, drogas <fct>, ig_aval <
 dbl>,[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 2551--2551
+Overfull \hbox (69.75pt too wide) in paragraph at lines 2550--2550
 []\TU/lmtt/m/n/10 ## #   medida_colo <dbl>, num_contra_ctg <dbl>, igp_semana <d
 bl>, igp_dia <dbl>[] 
  []
 
 
-Overfull \hbox (605.25pt too wide) in paragraph at lines 2571--2571
+Overfull \hbox (605.25pt too wide) in paragraph at lines 2570--2570
 []\TU/lmtt/m/n/10 ## Error in kable_latex(x = structure(c("Name", "Number of ro
 ws", "Number of columns", : unused argument (table.attr = "style=[]width: auto;
 []\n        class=[]table table-condensed[]")[] 
  []
 
 [64]
-Overfull \hbox (605.25pt too wide) in paragraph at lines 2599--2599
+Overfull \hbox (605.25pt too wide) in paragraph at lines 2598--2598
 []\TU/lmtt/m/n/10 ## Error in kable_latex(x = structure(c("Name", "Number of ro
 ws", "Number of columns", : unused argument (table.attr = "style=[]width: auto;
 []\n        class=[]table table-condensed[]")[] 
  []
 
 
-Overfull \hbox (605.25pt too wide) in paragraph at lines 2621--2621
+Overfull \hbox (605.25pt too wide) in paragraph at lines 2620--2620
 []\TU/lmtt/m/n/10 ## Error in kable_latex(x = structure(c("Name", "Number of ro
 ws", "Number of columns", : unused argument (table.attr = "style=[]width: auto;
 []\n        class=[]table table-condensed[]")[] 
  []
 
 [65]
-Overfull \hbox (605.25pt too wide) in paragraph at lines 2674--2674
+Overfull \hbox (605.25pt too wide) in paragraph at lines 2673--2673
 []\TU/lmtt/m/n/10 ## Error in kable_latex(x = structure(c("Name", "Number of ro
 ws", "Number of columns", : unused argument (table.attr = "style=[]width: auto;
 []\n        class=[]table table-condensed[]")[] 
  []
 
 [66] [67]
-Underfull \hbox (badness 1383) in paragraph at lines 2840--2843
+Underfull \hbox (badness 1383) in paragraph at lines 2839--2842
 []\TU/lmr/m/n/10 Crie a variável igp (idade gestacional do parto) obtida ao som
 ar
  []
@@ -1753,115 +1753,115 @@ ar
 ]
 Chapter 4.
 [71]
-Overfull \hbox (36.092pt too wide) in paragraph at lines 2949--2950
+Overfull \hbox (36.092pt too wide) in paragraph at lines 2948--2949
 \TU/lmr/m/n/10 que, ao utilizar \TU/lmtt/m/n/10 view(freq(dados$prematuridade,c
 umul=FALSE,report.nas=FALSE))
  []
 
 [72] [73] [74] [75]
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3142--3142
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3141--3141
 []\TU/lmtt/m/n/10 ## ------------- --------------------- ------------ ---------
 --- --------------[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3142--3142
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3141--3141
 []\TU/lmtt/m/n/10 ##                 dados$prematuridade          nao          
 sim          Total[] 
  []
 
 [76]
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3142--3142
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3141--3141
 []\TU/lmtt/m/n/10 ##       placebo                         19 (18.3%)   33 (31.
 7%)    52 ( 50.0%)[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3142--3142
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3141--3141
 []\TU/lmtt/m/n/10 ##       progest                         25 (24.0%)   27 (26.
 0%)    52 ( 50.0%)[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3142--3142
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3141--3141
 []\TU/lmtt/m/n/10 ##         Total                         44 (42.3%)   60 (57.
 7%)   104 (100.0%)[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3142--3142
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3141--3141
 []\TU/lmtt/m/n/10 ## ------------- --------------------- ------------ ---------
 --- --------------[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3163--3163
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3162--3162
 []\TU/lmtt/m/n/10 ## ------------- --------------------- ------------ ---------
 --- --------------[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3163--3163
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3162--3162
 []\TU/lmtt/m/n/10 ##                 dados$prematuridade          nao          
 sim          Total[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3163--3163
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3162--3162
 []\TU/lmtt/m/n/10 ##       placebo                         19 (36.5%)   33 (63.
 5%)    52 (100.0%)[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3163--3163
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3162--3162
 []\TU/lmtt/m/n/10 ##       progest                         25 (48.1%)   27 (51.
 9%)    52 (100.0%)[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3163--3163
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3162--3162
 []\TU/lmtt/m/n/10 ##         Total                         44 (42.3%)   60 (57.
 7%)   104 (100.0%)[] 
  []
 
 
-Overfull \hbox (69.75pt too wide) in paragraph at lines 3163--3163
+Overfull \hbox (69.75pt too wide) in paragraph at lines 3162--3162
 []\TU/lmtt/m/n/10 ## ------------- --------------------- ------------ ---------
 --- --------------[] 
  []
 
 
-Overfull \hbox (80.25pt too wide) in paragraph at lines 3184--3184
+Overfull \hbox (80.25pt too wide) in paragraph at lines 3183--3183
 []\TU/lmtt/m/n/10 ## ------------- --------------------- ------------- --------
 ----- --------------[] 
  []
 
 
-Overfull \hbox (80.25pt too wide) in paragraph at lines 3184--3184
+Overfull \hbox (80.25pt too wide) in paragraph at lines 3183--3183
 []\TU/lmtt/m/n/10 ##                 dados$prematuridade           nao         
   sim          Total[] 
  []
 
 
-Overfull \hbox (80.25pt too wide) in paragraph at lines 3184--3184
+Overfull \hbox (80.25pt too wide) in paragraph at lines 3183--3183
 []\TU/lmtt/m/n/10 ##       placebo                         19 ( 43.2%)   33 ( 5
 5.0%)    52 ( 50.0%)[] 
  []
 
 
-Overfull \hbox (80.25pt too wide) in paragraph at lines 3184--3184
+Overfull \hbox (80.25pt too wide) in paragraph at lines 3183--3183
 []\TU/lmtt/m/n/10 ##       progest                         25 ( 56.8%)   27 ( 4
 5.0%)    52 ( 50.0%)[] 
  []
 
 
-Overfull \hbox (80.25pt too wide) in paragraph at lines 3184--3184
+Overfull \hbox (80.25pt too wide) in paragraph at lines 3183--3183
 []\TU/lmtt/m/n/10 ##         Total                         44 (100.0%)   60 (10
 0.0%)   104 (100.0%)[] 
  []
 
 
-Overfull \hbox (80.25pt too wide) in paragraph at lines 3184--3184
+Overfull \hbox (80.25pt too wide) in paragraph at lines 3183--3183
 []\TU/lmtt/m/n/10 ## ------------- --------------------- ------------- --------
 ----- --------------[] 
  []
@@ -1944,18 +1944,18 @@ DOS \TU/lmr/m/n/10 89
  []
 
 [89]
-Overfull \hbox (3.05891pt too wide) in paragraph at lines 3477--3479
+Overfull \hbox (3.05891pt too wide) in paragraph at lines 3476--3478
 []\TU/lmr/m/n/10 Construa uma tabela cruzada entre EDPS_antes_SN e EDPS_depois_
 SN; 
  []
 
 
-Underfull \hbox (badness 6094) in paragraph at lines 3479--3481
+Underfull \hbox (badness 6094) in paragraph at lines 3478--3480
 []\TU/lmr/m/n/10 Apresente uma tabela com as medidas descritivas da variável
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 3479--3481
+Underfull \hbox (badness 2277) in paragraph at lines 3478--3480
 \TU/lmr/m/n/10 tempo_amamentacao_meses por grupo de amamentação. Refaça
  []
 
@@ -1973,7 +1973,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  19342 strings out of 412249
  338692 string characters out of 2855678
- 827171 words of memory out of 3000000
+ 827078 words of memory out of 3000000
  38486 multiletter control sequences out of 15000+200000
  541579 words of font info for 87 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
